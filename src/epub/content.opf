@@ -19,6 +19,13 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Table-Talk</dc:title>
 		<meta property="file-as" refines="#title">Table-Talk</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Essays on Men and Mannners</dc:title>
+		<meta property="file-as" refines="#subtitle">Essays on Men and Mannners</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Table-Talk: Essays on Men and Mannners</dc:title>
+		<meta property="file-as" refines="#fulltitle">Table-Talk</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">English essays</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3020</meta>
 		<meta property="se:subject">Nonfiction</meta>
