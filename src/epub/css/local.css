@@ -58,3 +58,37 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+[epub|type~="z3998:stage-direction"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:stage-direction"]:before{
+	content: "(";
+	font-style: normal;
+}
+
+[epub|type~="z3998:stage-direction"]:after{
+	content: ")";
+	font-style: normal;
+}
+
+p[epub|type~="z3998:stage-direction"]{
+	text-align: center;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:persona"]{
+	font-variant: small-caps;
+	text-transform: lowercase;
+}
+
+td[epub|type~="z3998:persona"]{
+	text-align: right;
+	white-space: nowrap;
+}
+
+td{
+	vertical-align: top;
+	padding: .5em;
+}
