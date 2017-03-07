@@ -101,3 +101,8 @@ td{
 	vertical-align: top;
 	padding: .5em;
 }
+
+ol > li > p:first-child,
+ol + p{
+	text-indent: 0;
+}
