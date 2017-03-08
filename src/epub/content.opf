@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-hazlitt/table-talk</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-03-08T16:51:02Z</dc:date>
+		<meta property="dcterms:modified">2017-03-08T16:51:02Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,17 +29,19 @@
 		<dc:subject id="subject-1">English essays</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3020</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of essays on art, literature, philosophy, society, and culture.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;William Hazlitt was a well-regarded critic and essayist in his day, and &lt;i&gt;Table-Talk&lt;/i&gt;, a collection of some of his more popular short essays, is perhaps his best-remembered work.&lt;/p&gt;
+			&lt;p&gt;The essays themselves range in subject from philosophy, to art, to literature, culture, society, and politics, with titles like “On the Pleasures of Painting” and “On Corporate Bodies.” Hazlitt’s intimate style and deep familiarity with many different aspects of art culture (not only was he a literary success, but he studied under Joshua Reynolds to be a portrait painter) make his essays fascinating multi-disciplinary reads.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Table-Talk&lt;/i&gt; was originally published in two separate volumes, and, largely due to Hazlitt’s political activism, was received poorly by his contemporaries. Today it’s considered one of his masterpieces.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3020</dc:source>
 		<dc:source>https://books.google.com/books?id=y8weAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">There were many instances of sentences being cut in half and missing; these have been re-transcribed.  Hazlitt used italics when introducing a phrase that today we would introduce with quotation marks; these have been modernized.  A large number of unnecessary capitalizations and italicizations have been removed.</meta>
-		<meta property="se:word-count">159903</meta>
+		<meta property="se:production-notes">There were many instances of sentences being cut in half and missing; these have been re-transcribed. Hazlitt used italics when introducing a phrase that today we would introduce with quotation marks; these have been modernized. A large number of unnecessary capitalizations and italicizations have been removed.</meta>
+		<meta property="se:word-count">152808</meta>
 		<meta property="se:reading-ease.flesch">52.12</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Table-Talk_(Hazlitt)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-hazlitt_table-talk</meta>

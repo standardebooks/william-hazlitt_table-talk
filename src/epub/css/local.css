@@ -82,11 +82,6 @@ p span.i1{
 	font-style: normal;
 }
 
-p[epub|type~="z3998:stage-direction"]{
-	text-align: center;
-	text-indent: 0;
-}
-
 [epub|type~="z3998:persona"]{
 	font-variant: small-caps;
 	text-transform: lowercase;
