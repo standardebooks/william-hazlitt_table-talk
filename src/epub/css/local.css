@@ -19,10 +19,6 @@ section > header{
 	text-align: center;
 }
 
-.will ul + p{
-	text-indent: 0;
-}
-
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
@@ -95,9 +91,4 @@ td[epub|type~="z3998:persona"]{
 td{
 	vertical-align: top;
 	padding: .5em;
-}
-
-ol > li > p:first-child,
-ol + p{
-	text-indent: 0;
 }
