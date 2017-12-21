@@ -68,12 +68,12 @@ p span.i1{
 	font-style: italic;
 }
 
-[epub|type~="z3998:stage-direction"]:before{
+[epub|type~="z3998:stage-direction"]::before{
 	content: "(";
 	font-style: normal;
 }
 
-[epub|type~="z3998:stage-direction"]:after{
+[epub|type~="z3998:stage-direction"]::after{
 	content: ")";
 	font-style: normal;
 }
