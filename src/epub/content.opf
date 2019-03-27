@@ -120,9 +120,9 @@
 		<item href="text/on-vulgarity-and-affectation.xhtml" id="on-vulgarity-and-affectation.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-will-making.xhtml" id="on-will-making.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-indian-jugglers.xhtml" id="the-indian-jugglers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-same-subject-continued-1.xhtml" id="the-same-subject-continued-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-same-subject-continued-2.xhtml" id="the-same-subject-continued-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-same-subject-continued-3.xhtml" id="the-same-subject-continued-3.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/the-same-subject-continued.xhtml" id="the-same-subject-continued.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/volume-1.xhtml" id="volume-1.xhtml" media-type="application/xhtml+xml"/>
@@ -135,7 +135,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="volume-1.xhtml"/>
 		<itemref idref="on-the-pleasure-of-painting.xhtml"/>
-		<itemref idref="the-same-subject-continued.xhtml"/>
+		<itemref idref="the-same-subject-continued-1.xhtml"/>
 		<itemref idref="on-the-past-and-future.xhtml"/>
 		<itemref idref="on-genius-and-common-sense.xhtml"/>
 		<itemref idref="the-same-subject-continued-2.xhtml"/>
