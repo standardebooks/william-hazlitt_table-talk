@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Table-Talk</dc:title>
 		<meta property="file-as" refines="#title">Table-Talk</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -37,16 +37,15 @@
 		<meta property="file-as" refines="#fulltitle">Table-Talk</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">English essays</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3020</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85043355</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">A collection of essays on art, literature, philosophy, society, and culture.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;William Hazlitt was a well-regarded critic and essayist in his day, and &lt;i&gt;Table-Talk&lt;/i&gt;, a collection of some of his more popular short essays, is perhaps his best-remembered work.&lt;/p&gt;
 			&lt;p&gt;The essays themselves range in subject from philosophy, to art, to literature, culture, society, and politics, with titles like “On the Pleasures of Painting” and “On Corporate Bodies.” Hazlitt’s intimate style and deep familiarity with many different aspects of art culture (not only was he a literary success, but he studied under Joshua Reynolds to be a portrait painter) make his essays fascinating multi-disciplinary reads.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Table-Talk&lt;/i&gt; was originally published in two separate volumes, and, largely due to Hazlitt’s political activism, was received poorly by his contemporaries. Today it’s considered one of his masterpieces.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3020</dc:source>
 		<dc:source>https://books.google.com/books?id=y8weAAAAMAAJ</dc:source>
