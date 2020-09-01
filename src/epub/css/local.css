@@ -66,10 +66,6 @@ p span.i1{
 	width: 20%;
 }
 
-[epub|type~="z3998:drama"] td p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:stage-direction"]{
 	font-style: italic;
 }
