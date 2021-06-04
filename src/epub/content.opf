@@ -84,7 +84,6 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
-		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
@@ -131,6 +130,7 @@
 		<item href="text/volume-2.xhtml" id="volume-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/whether-actors-ought-to-sit-in-the-boxes.xhtml" id="whether-actors-ought-to-sit-in-the-boxes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/why-distant-objects-please.xhtml" id="why-distant-objects-please.xhtml" media-type="application/xhtml+xml"/>
+		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
