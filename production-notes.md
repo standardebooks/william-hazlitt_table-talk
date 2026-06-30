@@ -1,0 +1,1 @@
+There were many instances of sentences being cut in half and missing; these have been re-transcribed. Hazlitt used italics when introducing a phrase that today we would introduce with quotation marks; these have been modernized. A large number of unnecessary capitalizations and italicizations have been removed.
