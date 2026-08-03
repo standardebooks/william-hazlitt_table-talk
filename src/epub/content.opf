@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3020</dc:source>
 		<dc:source>https://books.google.com/books?id=y8weAAAAMAAJ</dc:source>
-		<meta property="schema:wordCount">152279</meta>
+		<meta property="schema:wordCount">152294</meta>
 		<meta property="schema:educationalLevel">52.12</meta>
 		<link href="https://en.wikipedia.org/wiki/Table-Talk_(Hazlitt)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
